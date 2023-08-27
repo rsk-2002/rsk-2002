@@ -13,4 +13,4 @@
   <li>Git & GitHub</li>
 </ul>
 
-<h4>Preparing for adding more `\<li>` to the above list</h4>
+<h4>Preparing for adding more li to the above list</h4>
