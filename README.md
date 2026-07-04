@@ -1,18 +1,15 @@
+# 👨‍💻 Developer
+
 ## About Me
-Hey there! I'm a passionate web developer based in India.
+Passionate about coding and building digital solutions.
 
-## 🔧 Technologies & Tools
-- Programming Languages: [HTML, CSS, JS, Python]
-- Tools & Frameworks: [Git & GitHub, Django, Bootstrap, Tailwind, React, NextJs, VueJs]
+## Tech Stack
+- Languages: HTML, CSS, JavaScript, Python
+- Frameworks: Django, React, Vue.js, Next.js
+- Tools: Git, Bootstrap, Tailwind
 
-## 📫 Get in Touch
-- [LinkedIn](https://www.linkedin.com/in/rsk2002/)
-- [Twitter](https://twitter.com/devrsk_v1)
-- [Portfolio](https://rsk2002.netlify.app)
-- [ravishankerk48@gmail.com](mailto:ravishankerk48@gmail.com)
+## Connect
+Open to collaboration and discussions on tech.
 
-## 🚀 My GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=rsk-2002&show_icons=true&theme=radical)
-
-## 💬 Ask Me Anything
-Feel free to reach out if you have any questions, project ideas, or just want to chat about tech! I'm always open to new opportunities and collaborations.
+---
+*Building one line of code at a time*
